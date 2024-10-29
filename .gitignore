@@ -1,0 +1,35 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.~*
+
+# Temporary files
+*.log
+*.cache
+*.aux
+
+# Modules
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+node_modules/
+dist/
+build/
+
+# Markdown backups
+*.md.bak
+
+# Media files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.mp4
+*.mov
