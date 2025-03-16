@@ -32,8 +32,11 @@
 
 - RESTful API design for ML services (FastAPI/Flask)
 - Docker fundamentals and best practices
-- Python API Development - Comprehensive Course for Beginners
-- Docker Tutorial for Beginners [FULL COURSE]
+
+
+**Resources**:
+- [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+- [Docker Tutorial for Beginners [FULL COURSE]](https://www.youtube.com/watch?v=HR7wjLxQw1Q)
 
 ## Week 4: Docker & Model Deployment
 **Learning Objective**: Implement other deployment strategies
