@@ -12,9 +12,9 @@ This folder contains materials for our various study groups. Each subfolder or m
 
 ## 2. [General Resources/Tutorials](/general-resources)
 
-Here, you’ll find resources that offer broad insights into AI and machine learning, including applications in different industries,  essential tools and frameworks, ethical considerations, and foundational knowledge. These resources are ideal for anyone looking to understand the impact and scope of AI in the real world.
+Here, you’ll find resources that offer broad insights into AI and machine learning, including applications in different industries, essential tools and frameworks, ethical considerations, and foundational knowledge. These resources are ideal for anyone looking to understand the impact and scope of AI in the real world.
 
-## 3. [Projects](/projects)
+## 3. [Projects](/project-ideas)
 
 The projects section showcases various machine learning and AI projects developed within our community. It includes templates, beginner projects, intermediate projects, and advanced projects. This is a great place to explore real-world applications of machine learning and contribute to ongoing community projects.
 
