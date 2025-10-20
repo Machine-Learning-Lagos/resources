@@ -2,61 +2,69 @@
 
 Welcome to the Study Groups folder! 📚
 
-This folder contains curated materials for the various study groups within the Machine Learning Lagos community. Each subfolder focuses on a specific topic, offering resources that provide comprehensive learning paths and references for learners at all levels. Whether you’re a beginner or looking to deepen your expertise, these materials are designed to guide your learning journey.
+How to Use This Folder
 
-## Tracks
+- Navigate to the `october-cohort` subfolder to access the current available tracks.
+- Each curriculum file contains structured materials, including week-by-week topics, video tutorials, and hands-on projects.
+- Follow the recommended weekly order for a guided learning experience.
+- Complete the mini-projects and assignments to reinforce your learning.
+- Participate in the capstone project to demonstrate your skills.ns curated materials for the various study groups within the Machine Learning Lagos community. Each subfolder focuses on a specific topic, offering resources that provide comprehensive learning paths and references for learners at all levels. Whether you’re a beginner or looking to deepen your expertise, these materials are designed to guide your learning journey.
 
-The study groups are organized into the following tracks:
+## Available Tracks
 
-### 1. ML Basics
+We currently offer two comprehensive 10-week study group tracks:
 
-**Description:** This track is perfect for beginners looking to build a strong foundation in Machine Learning. Topics include ML concepts, algorithms, and their practical applications.
+### 1. ML Basics (Beginners)
 
-#### Contents:
+**Description:** A comprehensive 10-week curriculum perfect for beginners looking to build a strong foundation in Machine Learning. This track covers everything from mathematical foundations to real-world deployment.
 
-- Introduction to ML.
-- Supervised and Unsupervised Learning.
-- Decision Trees, KNN, and more.
+**Duration:** 10 weeks
 
-### 2. MLOps
+**What You'll Learn:**
 
-**Description:** This track focuses on the operational side of machine learning—deploying, scaling, and maintaining models in production environments.
+- **Weeks 1-2:** ML Math Foundations (Linear Algebra & Calculus)
+- **Week 3:** Python Libraries for ML (Pandas, NumPy, Matplotlib, Seaborn)
+- **Week 4:** Introduction to Machine Learning (Supervised, Unsupervised, Evaluation Metrics)
+- **Week 5:** Classic Supervised ML Algorithms (Logistic Regression, Decision Trees, Random Forests, SVM)
+- **Week 6:** Unsupervised Learning (K-means, PCA, t-SNE)
+- **Week 7:** Advanced ML Concepts (Hyperparameter Tuning, Ensemble Methods)
+- **Week 8:** Model Deployment (Flask, FastAPI, Streamlit, Gradio)
+- **Week 9:** Review & Capstone Preparation
+- **Week 10:** Capstone Project & Presentations
 
-#### Contents:
+**Prerequisites:** Basic programming knowledge; willingness to learn Python
 
-- CI/CD pipelines for ML.
-- Model Monitoring and Versioning.
-- Tools like MLFlow, Kubernetes, and Docker.
+**Capstone Project:** Build and deploy a complete ML solution including data cleaning, model training, and deployment
 
-### 3. Deep Learning
+---
 
-**Description:** This track dives into neural networks and advanced architectures such as CNNs, RNNs, and Transformers. Perfect for those looking to explore cutting-edge AI models.
+### 2. Generative AI
 
-#### Contents:
+**Description:** A hands-on 10-week curriculum designed to take you from Generative AI fundamentals to building production-ready applications. Learn to work with LLMs, image generation models, and build AI-powered applications.
 
-- Neural Network Basics.
-- Convolutional and Recurrent Neural Networks.
-- Attention Mechanisms and Transformers.
+**Duration:** 10 weeks
 
-### 4. Cloud ML
+**What You'll Learn:**
 
-**Description:** Learn how to utilize cloud platforms for scalable machine learning. This track covers Google Cloud AI, AWS SageMaker, and more.
+- **Weeks 1-2:** Generative AI Foundations & LLM Architecture (Transformers, Tokenization)
+- **Weeks 3-4:** Prompt Engineering & Working with AI APIs (OpenAI, Gemini, Anthropic)
+- **Weeks 5-6:** Building AI Applications (Text Generation Apps, Hugging Face Models)
+- **Week 7:** Image Generation & Multimodality (Stable Diffusion, DALL·E)
+- **Week 8:** Retrieval-Augmented Generation (RAG, Vector Databases)
+- **Week 9:** Focused Project Development
+- **Week 10:** Capstone Project Showcase
 
-#### Contents:
+**Prerequisites:**
 
-- Deploying Models on Google Cloud.
-- Introduction to AutoML and BigQuery ML.
-- Cost Optimization for Cloud ML.
+- Strong proficiency in Python
+- Software engineering fundamentals (Git, CLI)
+- Experience with API requests
+- Basic knowledge of Flask or FastAPI
+- High-level understanding of ML/neural networks
 
-### 5. ML Maths
+**Capstone Project:** Build a complex, multi-faceted generative AI application (e.g., code review assistant, trip planner, marketing copy generator)
 
-**Description:** Understand the mathematical foundations of ML, including linear algebra, calculus, and probability. Essential for mastering ML algorithms and concepts.
 
-#### Contents:
-
-- Linear Algebra for ML.
-- Probability and Statistics.
-- Optimization Techniques.
 
 ## How to Use This Folder
 
